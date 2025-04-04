@@ -70,8 +70,8 @@ body{
 }
 @media (max-aspect-ratio: 16/9){
     #notebook{
-        width: 200px;
-        height: 100px;
+        width: 150px;
+        height: 80px;
     }
     .send{
         width: 80px;
